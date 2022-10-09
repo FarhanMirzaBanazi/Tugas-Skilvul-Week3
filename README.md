@@ -1,6 +1,5 @@
 # **Tugas-Skilvul-Week3**
 <h5>3 - 7 Oktober 2022</h5>
----
 
 ## **JavaScript Intermediate**
 
@@ -61,7 +60,7 @@
     - Input
     - Prototype
 
-&nbsp;
+
 - Array Method
     <div align="justify">Array memiliki method atau biasa disebut built-in methods.Kita tidak perlu membuat function lagi jika method yang kita butuhkan sudah tersedia.Sama halnya dengan Array properti. Kita bisa cek dokumentasi untuk melihat method yang sudah tersedia pada link ini built-in methods atau MDN documentation.
 - Contoh : 
